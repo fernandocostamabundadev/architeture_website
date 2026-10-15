@@ -20,3 +20,4 @@ Abra `index.html` no navegador ou sirva a pasta com qualquer servidor estático 
 - `assets/js/main.js` — carrossel e navegação mobile.
 - `assets/img/` — imagens e ícone do site.
 # architeture_website
+# architeture_website
